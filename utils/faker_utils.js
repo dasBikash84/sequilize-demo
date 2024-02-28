@@ -1,4 +1,3 @@
-// CJS
 const { faker } = require('@faker-js/faker');
 
 module.exports.getRandomUser = ()=>{
@@ -40,4 +39,4 @@ module.exports.getRandomSong = ()=>{
   };
 }
 
-module.exports.getRandomRating = () => faker.number.int({max:5});
+module.exports.getRandomRating = () => faker.number.int({min:1,max:10});
