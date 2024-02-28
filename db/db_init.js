@@ -1,6 +1,6 @@
 const { Sequelize } = require("sequelize");
 const sequelize = new Sequelize("sqlite::memory:", {
-  logging: false,
+  logging: true,
 });
 
 module.exports = {

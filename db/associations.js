@@ -4,11 +4,13 @@ const { Song } = require('./models/song_model');
 const {User} = require('./models/user_model');
 const {SongRatings} = require('./models/song_rating_model');
 
-Singer.hasOne(Album);
-Album.belongsTo(Singer);
 
-Album.hasOne(Song);
-Song.belongsTo(Album);
+Album.hasOne(Singer);
+Singer.hasMany(Album);
+
+
+Song.hasOne(Album);
+Album.hasMany(Song);
 
 Song.belongsToMany(User, { through: SongRatings });
 User.belongsToMany(Song, { through: SongRatings });

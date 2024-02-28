@@ -6,11 +6,11 @@ const { Album } = require("../models/album_model");
 const { Song } = require("../models/song_model");
 const { SongRatings } = require("../models/song_rating_model");
 
-const singerCount = 100;
+const singerCount = 50;
 const userCount = 1000;
-const albumCount = 2000;
+const albumCount = 200;
 const minSongInAlbum = 3;
-const maxSongInAlbum = 10;
+const maxSongInAlbum = 3;
 const avgRatingPerSong = 3;
 
 async function seedUserData() {
