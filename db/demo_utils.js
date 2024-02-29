@@ -56,7 +56,7 @@ const getSingerRatingsForSong = async (singerId) => {
             all:true,
             nested:true
         },
-      },getSongsByAlbumId
+      },
     },
   });
   const averageratings = {};
