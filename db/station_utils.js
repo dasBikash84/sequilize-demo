@@ -1,9 +1,7 @@
 const { Op } = require("sequelize");
-const { Album } = require("./models/album_model");
-const { Singer } = require("./models/singer_model");
-const { Song } = require("./models/song_model");
-const { SongRatings } = require("./models/song_rating_model");
-const { User } = require("./models/user_model");
+
+const { District } = require("./models/district_model");
+const { Station } = require("./models/station_model");
 
 // Get first 10 songs with album where album `id` in given list
 

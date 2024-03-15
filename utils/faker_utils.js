@@ -1,4 +1,7 @@
 const { faker } = require('@faker-js/faker');
+const { travelModeEnum } = require('../db/models/station_model');
+
+// const fakerBn = new Faker('ru');
 
 module.exports.getRandomUser = ()=>{
   return {
@@ -40,3 +43,23 @@ module.exports.getRandomSong = ()=>{
 }
 
 module.exports.getRandomRating = () => faker.number.int({min:1,max:10});
+
+
+// const travelModes = Object.values(travelModeEnum);
+
+module.exports.getRandomDistrict = ()=>{
+  return {
+    district: faker.location.city(),
+    district_bn: faker.person.firstName(),
+  };
+}
+
+
+module.exports.getRandomStation2 = ()=>{
+  return {
+    title: faker.location.city(),
+    // title_bn: faker.location.city(),
+    short_code: faker.location.secondaryAddress(),
+    travel_mode: Object.values(travelModeEnum)[faker.number.int(travelModes.length-1)]
+  };
+}

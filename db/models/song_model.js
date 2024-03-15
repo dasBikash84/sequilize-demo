@@ -18,6 +18,8 @@ Song.init(
     title: { type: DataTypes.STRING, allowNull: false },
     genre: { type: DataTypes.TEXT, allowNull: false },
     durationSec: { type: DataTypes.INTEGER, allowNull: true },
+    album1_id: { type: DataTypes.INTEGER, allowNull: false },
+    album2_id: { type: DataTypes.INTEGER, allowNull: false },
   },
   { sequelize }
 );

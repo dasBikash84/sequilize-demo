@@ -1,0 +1,936 @@
+{
+  "id": 1,
+  "Albums": [
+    {
+      "id": 21,
+      "Songs": [
+        {
+          "id": 61,
+          "title": "Brother Louie",
+          "Users": [
+            {
+              "id": 302,
+              "SongRatings": {
+                "id": 363,
+                "SongId": 61,
+                "UserId": 302,
+                "rating": 4,
+                "createdAt": "2024-02-28T17:00:58.477Z",
+                "updatedAt": "2024-02-28T17:00:58.477Z"
+              }
+            },
+            {
+              "id": 767,
+              "SongRatings": {
+                "id": 540,
+                "SongId": 61,
+                "UserId": 767,
+                "rating": 7,
+                "createdAt": "2024-02-28T17:00:58.803Z",
+                "updatedAt": "2024-02-28T17:00:58.803Z"
+              }
+            },
+            {
+              "id": 41,
+              "SongRatings": {
+                "id": 1181,
+                "SongId": 61,
+                "UserId": 41,
+                "rating": 5,
+                "createdAt": "2024-02-28T17:00:59.973Z",
+                "updatedAt": "2024-02-28T17:00:59.973Z"
+              }
+            }
+          ]
+        },
+        {
+          "id": 62,
+          "title": "Make it With You",
+          "Users": [
+            {
+              "id": 26,
+              "SongRatings": {
+                "id": 637,
+                "SongId": 62,
+                "UserId": 26,
+                "rating": 1,
+                "createdAt": "2024-02-28T17:00:59.031Z",
+                "updatedAt": "2024-02-28T17:00:59.031Z"
+              }
+            },
+            {
+              "id": 979,
+              "SongRatings": {
+                "id": 1566,
+                "SongId": 62,
+                "UserId": 979,
+                "rating": 10,
+                "createdAt": "2024-02-28T17:01:00.361Z",
+                "updatedAt": "2024-02-28T17:01:00.361Z"
+              }
+            },
+            {
+              "id": 544,
+              "SongRatings": {
+                "id": 1648,
+                "SongId": 62,
+                "UserId": 544,
+                "rating": 10,
+                "createdAt": "2024-02-28T17:01:00.425Z",
+                "updatedAt": "2024-02-28T17:01:00.425Z"
+              }
+            }
+          ]
+        },
+        {
+          "id": 63,
+          "title": "Thrift Shop",
+          "Users": [
+            {
+              "id": 691,
+              "SongRatings": {
+                "id": 486,
+                "SongId": 63,
+                "UserId": 691,
+                "rating": 3,
+                "createdAt": "2024-02-28T17:00:58.703Z",
+                "updatedAt": "2024-02-28T17:00:58.703Z"
+              }
+            },
+            {
+              "id": 858,
+              "SongRatings": {
+                "id": 761,
+                "SongId": 63,
+                "UserId": 858,
+                "rating": 9,
+                "createdAt": "2024-02-28T17:00:59.267Z",
+                "updatedAt": "2024-02-28T17:00:59.267Z"
+              }
+            },
+            {
+              "id": 124,
+              "SongRatings": {
+                "id": 1282,
+                "SongId": 63,
+                "UserId": 124,
+                "rating": 9,
+                "createdAt": "2024-02-28T17:01:00.076Z",
+                "updatedAt": "2024-02-28T17:01:00.076Z"
+              }
+            },
+            {
+              "id": 575,
+              "SongRatings": {
+                "id": 1588,
+                "SongId": 63,
+                "UserId": 575,
+                "rating": 8,
+                "createdAt": "2024-02-28T17:01:00.378Z",
+                "updatedAt": "2024-02-28T17:01:00.378Z"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "Songs": [
+        {
+          "id": 128,
+          "title": "Money For Nothing",
+          "Users": [
+            {
+              "id": 294,
+              "SongRatings": {
+                "id": 314,
+                "SongId": 128,
+                "UserId": 294,
+                "rating": 10,
+                "createdAt": "2024-02-28T17:00:58.382Z",
+                "updatedAt": "2024-02-28T17:00:58.382Z"
+              }
+            },
+            {
+              "id": 850,
+              "SongRatings": {
+                "id": 1332,
+                "SongId": 128,
+                "UserId": 850,
+                "rating": 6,
+                "createdAt": "2024-02-28T17:01:00.115Z",
+                "updatedAt": "2024-02-28T17:01:00.115Z"
+              }
+            },
+            {
+              "id": 539,
+              "SongRatings": {
+                "id": 1376,
+                "SongId": 128,
+                "UserId": 539,
+                "rating": 8,
+                "createdAt": "2024-02-28T17:01:00.151Z",
+                "updatedAt": "2024-02-28T17:01:00.151Z"
+              }
+            }
+          ]
+        },
+        {
+          "id": 129,
+          "title": "Venus",
+          "Users": [
+            {
+              "id": 933,
+              "SongRatings": {
+                "id": 614,
+                "SongId": 129,
+                "UserId": 933,
+                "rating": 2,
+                "createdAt": "2024-02-28T17:00:58.973Z",
+                "updatedAt": "2024-02-28T17:00:58.973Z"
+              }
+            },
+            {
+              "id": 476,
+              "SongRatings": {
+                "id": 735,
+                "SongId": 129,
+                "UserId": 476,
+                "rating": 1,
+                "createdAt": "2024-02-28T17:00:59.219Z",
+                "updatedAt": "2024-02-28T17:00:59.219Z"
+              }
+            }
+          ]
+        },
+        {
+          "id": 127,
+          "title": "You Don't Bring Me Flowers",
+          "Users": [
+            {
+              "id": 349,
+              "SongRatings": {
+                "id": 722,
+                "SongId": 127,
+                "UserId": 349,
+                "rating": 4,
+                "createdAt": "2024-02-28T17:00:59.194Z",
+                "updatedAt": "2024-02-28T17:00:59.194Z"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "Songs": [
+        {
+          "id": 161,
+          "title": "People",
+          "Users": [
+            {
+              "id": 318,
+              "SongRatings": {
+                "id": 19,
+                "SongId": 161,
+                "UserId": 318,
+                "rating": 9,
+                "createdAt": "2024-02-28T17:00:57.655Z",
+                "updatedAt": "2024-02-28T17:00:57.655Z"
+              }
+            },
+            {
+              "id": 385,
+              "SongRatings": {
+                "id": 516,
+                "SongId": 161,
+                "UserId": 385,
+                "rating": 3,
+                "createdAt": "2024-02-28T17:00:58.755Z",
+                "updatedAt": "2024-02-28T17:00:58.755Z"
+              }
+            },
+            {
+              "id": 461,
+              "SongRatings": {
+                "id": 1029,
+                "SongId": 161,
+                "UserId": 461,
+                "rating": 4,
+                "createdAt": "2024-02-28T17:00:59.745Z",
+                "updatedAt": "2024-02-28T17:00:59.745Z"
+              }
+            },
+            {
+              "id": 593,
+              "SongRatings": {
+                "id": 1142,
+                "SongId": 161,
+                "UserId": 593,
+                "rating": 7,
+                "createdAt": "2024-02-28T17:00:59.921Z",
+                "updatedAt": "2024-02-28T17:00:59.921Z"
+              }
+            }
+          ]
+        },
+        {
+          "id": 160,
+          "title": "Some Enchanted Evening",
+          "Users": [
+            {
+              "id": 316,
+              "SongRatings": {
+                "id": 1729,
+                "SongId": 160,
+                "UserId": 316,
+                "rating": 2,
+                "createdAt": "2024-02-28T17:01:00.541Z",
+                "updatedAt": "2024-02-28T17:01:00.541Z"
+              }
+            }
+          ]
+        },
+        {
+          "id": 162,
+          "title": "We Are Young",
+          "Users": [
+            {
+              "id": 508,
+              "SongRatings": {
+                "id": 875,
+                "SongId": 162,
+                "UserId": 508,
+                "rating": 8,
+                "createdAt": "2024-02-28T17:00:59.481Z",
+                "updatedAt": "2024-02-28T17:00:59.481Z"
+              }
+            },
+            {
+              "id": 987,
+              "SongRatings": {
+                "id": 1004,
+                "SongId": 162,
+                "UserId": 987,
+                "rating": 4,
+                "createdAt": "2024-02-28T17:00:59.711Z",
+                "updatedAt": "2024-02-28T17:00:59.711Z"
+              }
+            },
+            {
+              "id": 318,
+              "SongRatings": {
+                "id": 1149,
+                "SongId": 162,
+                "UserId": 318,
+                "rating": 5,
+                "createdAt": "2024-02-28T17:00:59.928Z",
+                "updatedAt": "2024-02-28T17:00:59.928Z"
+              }
+            },
+            {
+              "id": 796,
+              "SongRatings": {
+                "id": 1761,
+                "SongId": 162,
+                "UserId": 796,
+                "rating": 8,
+                "createdAt": "2024-02-28T17:01:00.574Z",
+                "updatedAt": "2024-02-28T17:01:00.574Z"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "Songs": [
+        {
+          "id": 290,
+          "title": "Good Times",
+          "Users": [
+            {
+              "id": 664,
+              "SongRatings": {
+                "id": 347,
+                "SongId": 290,
+                "UserId": 664,
+                "rating": 2,
+                "createdAt": "2024-02-28T17:00:58.446Z",
+                "updatedAt": "2024-02-28T17:00:58.446Z"
+              }
+            },
+            {
+              "id": 906,
+              "SongRatings": {
+                "id": 713,
+                "SongId": 290,
+                "UserId": 906,
+                "rating": 5,
+                "createdAt": "2024-02-28T17:00:59.178Z",
+                "updatedAt": "2024-02-28T17:00:59.178Z"
+              }
+            }
+          ]
+        },
+        {
+          "id": 291,
+          "title": "Incense & Peppermints",
+          "Users": [
+            {
+              "id": 705,
+              "SongRatings": {
+                "id": 107,
+                "SongId": 291,
+                "UserId": 705,
+                "rating": 8,
+                "createdAt": "2024-02-28T17:00:57.852Z",
+                "updatedAt": "2024-02-28T17:00:57.852Z"
+              }
+            },
+            {
+              "id": 972,
+              "SongRatings": {
+                "id": 232,
+                "SongId": 291,
+                "UserId": 972,
+                "rating": 10,
+                "createdAt": "2024-02-28T17:00:58.205Z",
+                "updatedAt": "2024-02-28T17:00:58.205Z"
+              }
+            },
+            {
+              "id": 425,
+              "SongRatings": {
+                "id": 252,
+                "SongId": 291,
+                "UserId": 425,
+                "rating": 7,
+                "createdAt": "2024-02-28T17:00:58.244Z",
+                "updatedAt": "2024-02-28T17:00:58.244Z"
+              }
+            },
+            {
+              "id": 112,
+              "SongRatings": {
+                "id": 891,
+                "SongId": 291,
+                "UserId": 112,
+                "rating": 4,
+                "createdAt": "2024-02-28T17:00:59.517Z",
+                "updatedAt": "2024-02-28T17:00:59.517Z"
+              }
+            },
+            {
+              "id": 568,
+              "SongRatings": {
+                "id": 1042,
+                "SongId": 291,
+                "UserId": 568,
+                "rating": 4,
+                "createdAt": "2024-02-28T17:00:59.789Z",
+                "updatedAt": "2024-02-28T17:00:59.789Z"
+              }
+            },
+            {
+              "id": 506,
+              "SongRatings": {
+                "id": 1331,
+                "SongId": 291,
+                "UserId": 506,
+                "rating": 4,
+                "createdAt": "2024-02-28T17:01:00.114Z",
+                "updatedAt": "2024-02-28T17:01:00.114Z"
+              }
+            },
+            {
+              "id": 265,
+              "SongRatings": {
+                "id": 1713,
+                "SongId": 291,
+                "UserId": 265,
+                "rating": 9,
+                "createdAt": "2024-02-28T17:01:00.513Z",
+                "updatedAt": "2024-02-28T17:01:00.513Z"
+              }
+            }
+          ]
+        },
+        {
+          "id": 289,
+          "title": "Surfin' USA",
+          "Users": [
+            {
+              "id": 142,
+              "SongRatings": {
+                "id": 975,
+                "SongId": 289,
+                "UserId": 142,
+                "rating": 2,
+                "createdAt": "2024-02-28T17:00:59.671Z",
+                "updatedAt": "2024-02-28T17:00:59.671Z"
+              }
+            },
+            {
+              "id": 510,
+              "SongRatings": {
+                "id": 1498,
+                "SongId": 289,
+                "UserId": 510,
+                "rating": 8,
+                "createdAt": "2024-02-28T17:01:00.277Z",
+                "updatedAt": "2024-02-28T17:01:00.277Z"
+              }
+            },
+            {
+              "id": 962,
+              "SongRatings": {
+                "id": 1787,
+                "SongId": 289,
+                "UserId": 962,
+                "rating": 2,
+                "createdAt": "2024-02-28T17:01:00.608Z",
+                "updatedAt": "2024-02-28T17:01:00.608Z"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "Songs": [
+        {
+          "id": 300,
+          "title": "Honey",
+          "Users": [
+            {
+              "id": 397,
+              "SongRatings": {
+                "id": 375,
+                "SongId": 300,
+                "UserId": 397,
+                "rating": 5,
+                "createdAt": "2024-02-28T17:00:58.496Z",
+                "updatedAt": "2024-02-28T17:00:58.496Z"
+              }
+            },
+            {
+              "id": 118,
+              "SongRatings": {
+                "id": 841,
+                "SongId": 300,
+                "UserId": 118,
+                "rating": 6,
+                "createdAt": "2024-02-28T17:00:59.414Z",
+                "updatedAt": "2024-02-28T17:00:59.414Z"
+              }
+            }
+          ]
+        },
+        {
+          "id": 298,
+          "title": "Minnie the Moocher",
+          "Users": [
+            {
+              "id": 902,
+              "SongRatings": {
+                "id": 64,
+                "SongId": 298,
+                "UserId": 902,
+                "rating": 8,
+                "createdAt": "2024-02-28T17:00:57.739Z",
+                "updatedAt": "2024-02-28T17:00:57.739Z"
+              }
+            },
+            {
+              "id": 299,
+              "SongRatings": {
+                "id": 397,
+                "SongId": 298,
+                "UserId": 299,
+                "rating": 4,
+                "createdAt": "2024-02-28T17:00:58.538Z",
+                "updatedAt": "2024-02-28T17:00:58.538Z"
+              }
+            },
+            {
+              "id": 498,
+              "SongRatings": {
+                "id": 520,
+                "SongId": 298,
+                "UserId": 498,
+                "rating": 8,
+                "createdAt": "2024-02-28T17:00:58.761Z",
+                "updatedAt": "2024-02-28T17:00:58.761Z"
+              }
+            },
+            {
+              "id": 23,
+              "SongRatings": {
+                "id": 991,
+                "SongId": 298,
+                "UserId": 23,
+                "rating": 10,
+                "createdAt": "2024-02-28T17:00:59.697Z",
+                "updatedAt": "2024-02-28T17:00:59.697Z"
+              }
+            }
+          ]
+        },
+        {
+          "id": 299,
+          "title": "That's the Way Love Goes",
+          "Users": [
+            {
+              "id": 3,
+              "SongRatings": {
+                "id": 470,
+                "SongId": 299,
+                "UserId": 3,
+                "rating": 6,
+                "createdAt": "2024-02-28T17:00:58.669Z",
+                "updatedAt": "2024-02-28T17:00:58.669Z"
+              }
+            },
+            {
+              "id": 611,
+              "SongRatings": {
+                "id": 605,
+                "SongId": 299,
+                "UserId": 611,
+                "rating": 2,
+                "createdAt": "2024-02-28T17:00:58.937Z",
+                "updatedAt": "2024-02-28T17:00:58.937Z"
+              }
+            },
+            {
+              "id": 41,
+              "SongRatings": {
+                "id": 821,
+                "SongId": 299,
+                "UserId": 41,
+                "rating": 6,
+                "createdAt": "2024-02-28T17:00:59.381Z",
+                "updatedAt": "2024-02-28T17:00:59.381Z"
+              }
+            },
+            {
+              "id": 109,
+              "SongRatings": {
+                "id": 1326,
+                "SongId": 299,
+                "UserId": 109,
+                "rating": 6,
+                "createdAt": "2024-02-28T17:01:00.111Z",
+                "updatedAt": "2024-02-28T17:01:00.111Z"
+              }
+            },
+            {
+              "id": 642,
+              "SongRatings": {
+                "id": 1646,
+                "SongId": 299,
+                "UserId": 642,
+                "rating": 9,
+                "createdAt": "2024-02-28T17:01:00.423Z",
+                "updatedAt": "2024-02-28T17:01:00.423Z"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 108,
+      "Songs": [
+        {
+          "id": 324,
+          "title": "Shake You Down",
+          "Users": [
+            {
+              "id": 985,
+              "SongRatings": {
+                "id": 169,
+                "SongId": 324,
+                "UserId": 985,
+                "rating": 3,
+                "createdAt": "2024-02-28T17:00:58.069Z",
+                "updatedAt": "2024-02-28T17:00:58.069Z"
+              }
+            },
+            {
+              "id": 675,
+              "SongRatings": {
+                "id": 830,
+                "SongId": 324,
+                "UserId": 675,
+                "rating": 8,
+                "createdAt": "2024-02-28T17:00:59.396Z",
+                "updatedAt": "2024-02-28T17:00:59.396Z"
+              }
+            }
+          ]
+        },
+        {
+          "id": 322,
+          "title": "Strangers in the Night",
+          "Users": [
+            {
+              "id": 841,
+              "SongRatings": {
+                "id": 1158,
+                "SongId": 322,
+                "UserId": 841,
+                "rating": 5,
+                "createdAt": "2024-02-28T17:00:59.940Z",
+                "updatedAt": "2024-02-28T17:00:59.940Z"
+              }
+            },
+            {
+              "id": 595,
+              "SongRatings": {
+                "id": 1416,
+                "SongId": 322,
+                "UserId": 595,
+                "rating": 9,
+                "createdAt": "2024-02-28T17:01:00.182Z",
+                "updatedAt": "2024-02-28T17:01:00.182Z"
+              }
+            },
+            {
+              "id": 642,
+              "SongRatings": {
+                "id": 1590,
+                "SongId": 322,
+                "UserId": 642,
+                "rating": 7,
+                "createdAt": "2024-02-28T17:01:00.380Z",
+                "updatedAt": "2024-02-28T17:01:00.380Z"
+              }
+            }
+          ]
+        },
+        {
+          "id": 323,
+          "title": "Strangers in the Night",
+          "Users": [
+            {
+              "id": 969,
+              "SongRatings": {
+                "id": 159,
+                "SongId": 323,
+                "UserId": 969,
+                "rating": 10,
+                "createdAt": "2024-02-28T17:00:58.047Z",
+                "updatedAt": "2024-02-28T17:00:58.047Z"
+              }
+            },
+            {
+              "id": 579,
+              "SongRatings": {
+                "id": 932,
+                "SongId": 323,
+                "UserId": 579,
+                "rating": 10,
+                "createdAt": "2024-02-28T17:00:59.588Z",
+                "updatedAt": "2024-02-28T17:00:59.588Z"
+              }
+            },
+            {
+              "id": 249,
+              "SongRatings": {
+                "id": 992,
+                "SongId": 323,
+                "UserId": 249,
+                "rating": 9,
+                "createdAt": "2024-02-28T17:00:59.698Z",
+                "updatedAt": "2024-02-28T17:00:59.698Z"
+              }
+            },
+            {
+              "id": 855,
+              "SongRatings": {
+                "id": 1621,
+                "SongId": 323,
+                "UserId": 855,
+                "rating": 5,
+                "createdAt": "2024-02-28T17:01:00.403Z",
+                "updatedAt": "2024-02-28T17:01:00.403Z"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 198,
+      "Songs": [
+        {
+          "id": 592,
+          "title": "Bennie & the Jets",
+          "Users": [
+            {
+              "id": 333,
+              "SongRatings": {
+                "id": 575,
+                "SongId": 592,
+                "UserId": 333,
+                "rating": 7,
+                "createdAt": "2024-02-28T17:00:58.879Z",
+                "updatedAt": "2024-02-28T17:00:58.879Z"
+              }
+            },
+            {
+              "id": 451,
+              "SongRatings": {
+                "id": 742,
+                "SongId": 592,
+                "UserId": 451,
+                "rating": 6,
+                "createdAt": "2024-02-28T17:00:59.233Z",
+                "updatedAt": "2024-02-28T17:00:59.233Z"
+              }
+            },
+            {
+              "id": 30,
+              "SongRatings": {
+                "id": 1022,
+                "SongId": 592,
+                "UserId": 30,
+                "rating": 3,
+                "createdAt": "2024-02-28T17:00:59.736Z",
+                "updatedAt": "2024-02-28T17:00:59.736Z"
+              }
+            },
+            {
+              "id": 498,
+              "SongRatings": {
+                "id": 1350,
+                "SongId": 592,
+                "UserId": 498,
+                "rating": 8,
+                "createdAt": "2024-02-28T17:01:00.131Z",
+                "updatedAt": "2024-02-28T17:01:00.131Z"
+              }
+            }
+          ]
+        },
+        {
+          "id": 594,
+          "title": "I Kissed A Girl",
+          "Users": [
+            {
+              "id": 499,
+              "SongRatings": {
+                "id": 97,
+                "SongId": 594,
+                "UserId": 499,
+                "rating": 7,
+                "createdAt": "2024-02-28T17:00:57.824Z",
+                "updatedAt": "2024-02-28T17:00:57.824Z"
+              }
+            },
+            {
+              "id": 545,
+              "SongRatings": {
+                "id": 466,
+                "SongId": 594,
+                "UserId": 545,
+                "rating": 8,
+                "createdAt": "2024-02-28T17:00:58.662Z",
+                "updatedAt": "2024-02-28T17:00:58.662Z"
+              }
+            },
+            {
+              "id": 429,
+              "SongRatings": {
+                "id": 709,
+                "SongId": 594,
+                "UserId": 429,
+                "rating": 8,
+                "createdAt": "2024-02-28T17:00:59.171Z",
+                "updatedAt": "2024-02-28T17:00:59.171Z"
+              }
+            },
+            {
+              "id": 468,
+              "SongRatings": {
+                "id": 1222,
+                "SongId": 594,
+                "UserId": 468,
+                "rating": 8,
+                "createdAt": "2024-02-28T17:01:00.013Z",
+                "updatedAt": "2024-02-28T17:01:00.013Z"
+              }
+            },
+            {
+              "id": 739,
+              "SongRatings": {
+                "id": 1417,
+                "SongId": 594,
+                "UserId": 739,
+                "rating": 2,
+                "createdAt": "2024-02-28T17:01:00.183Z",
+                "updatedAt": "2024-02-28T17:01:00.183Z"
+              }
+            },
+            {
+              "id": 333,
+              "SongRatings": {
+                "id": 1443,
+                "SongId": 594,
+                "UserId": 333,
+                "rating": 4,
+                "createdAt": "2024-02-28T17:01:00.212Z",
+                "updatedAt": "2024-02-28T17:01:00.212Z"
+              }
+            },
+            {
+              "id": 828,
+              "SongRatings": {
+                "id": 1490,
+                "SongId": 594,
+                "UserId": 828,
+                "rating": 2,
+                "createdAt": "2024-02-28T17:01:00.268Z",
+                "updatedAt": "2024-02-28T17:01:00.268Z"
+              }
+            }
+          ]
+        },
+        {
+          "id": 593,
+          "title": "Rhinestone Cowboy",
+          "Users": [
+            {
+              "id": 193,
+              "SongRatings": {
+                "id": 495,
+                "SongId": 593,
+                "UserId": 193,
+                "rating": 4,
+                "createdAt": "2024-02-28T17:00:58.719Z",
+                "updatedAt": "2024-02-28T17:00:58.719Z"
+              }
+            },
+            {
+              "id": 751,
+              "SongRatings": {
+                "id": 1193,
+                "SongId": 593,
+                "UserId": 751,
+                "rating": 10,
+                "createdAt": "2024-02-28T17:00:59.983Z",
+                "updatedAt": "2024-02-28T17:00:59.983Z"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
